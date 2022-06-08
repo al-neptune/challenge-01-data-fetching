@@ -1,5 +1,4 @@
 import Head from "next/head";
-
 import { ChallengeUI } from "../components/DataFetcher";
 import { ConnectWallet } from "../components/ConnectWallet";
 
